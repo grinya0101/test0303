@@ -1,5 +1,31 @@
 .content {
     grid-area: c;
-    background-color: cornflowerblue;
+    background-color: rgb(171, 237, 100);
   }
   
+
+  .dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+
+  };
+
+
+  .dialogsItem{
+    margin: 30px
+
+  };
+
+  .dialog{
+    
+  };
+
+
+
+  .masseges{
+    padding: 30px;
+  };
+
+  .massage{
+
+  }
